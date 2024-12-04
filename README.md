@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm A.S.M. SAYEM</h1>
+<h1 align="center">Assalamualaikum 👨‍💻, I'm A.S.M. SAYEM</h1>
 <h3 align="center">BSc in Computer Science & Engineering Graduate with Ongoing Thesis | AIUB Alumnus</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asm-sayem" alt="asm-sayem" /></a> </p>
